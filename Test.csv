@@ -1,0 +1,49 @@
+"ID","Type","Name","Documentation","Specialization"
+"id-714bd6bb63e14fcd99c5d0d56fd47019","ArchimateModel","(new model)","",""
+"id-e81d920e84904ec18d841fe3dc7e6122","BusinessActor","Business Actor","",""
+"id-3e1633ab96f741c48c5840d84bb11fc6","BusinessActor","Business Actor","",""
+"id-3671fa131e7f4758b50fc9e8e764351e","BusinessActor","Customer","",""
+"id-e06ddd92e6b24afd89f27172c189ad36","BusinessActor","Customer Service Specialist","",""
+"id-c32f079629e44595ad66ac351ffc8e1c","BusinessInteraction","Confirmation","",""
+"id-6ced1f5df3fa4abbaacaf32739be4f7d","BusinessProcess","","",""
+"id-3e911f6699394804bde891f529cb08c1","BusinessProcess","","",""
+"id-b60b7bc14f5a41a696f4ed8a77bc187b","BusinessProcess","Agreement with the result","",""
+"id-31fc761f46094addac539caf88e2efd7","BusinessProcess","Business Process","",""
+"id-6845d80fb3734d578f271aa22f56bb84","BusinessProcess","Business Process","",""
+"id-35b848da42de4d27902bd6b5e0191890","BusinessProcess","Checking with the customer","",""
+"id-8896b158e8e5406294686f9fff0083ae","BusinessProcess","Confirmation","",""
+"id-98aae2d8ae3c49708b7987b44e847012","BusinessProcess","Creating a QR code","",""
+"id-ccd3a637035742b4a1cf3023fb103527","BusinessProcess","Creating a website","",""
+"id-22308b7f11e04551816277a81b7c8ede","BusinessProcess","Editing a website","",""
+"id-9b8ed38d62d34323b98ee5b950c81198","BusinessProcess","Getting edits","",""
+"id-c4651ff880da47bd960485dfc8601099","BusinessProcess","Getting edits","",""
+"id-7597a8d918dc4200b480678dcdf70eea","BusinessProcess","Getting the final version","",""
+"id-a1772181c45d4218b9a69d3ba1eec3ae","BusinessProcess","Payment by QR code and receipt of the website","",""
+"id-2996485a3f1c491f9b15176e154a239b","BusinessProcess","Preparation of technical specifications for the site and the cost of services","",""
+"id-e604f795ea23498496e3767dde301c33","BusinessProcess","Sending edits to the IT department","",""
+"id-7296b343d20c432692cdea3a69aba8ef","BusinessProcess","Transfer of technical specifications to the IT department","",""
+"id-54c5fb29dcc743cd806207388cc5ccb6","BusinessProcess","Transfer of the site to a customer service specialist","",""
+"id-dcbff143b9724548a88d7e72a6c55653","BusinessProcess","Transfer of the site to the manager","",""
+"id-de9bc075d0314abba1bcf401750cdd7d","BusinessRole","Business Role","",""
+"id-1a2f773ebfd3499a9e04a51349986aad","BusinessRole","IT Department","",""
+"id-44ac5d2b43f942f8b9560021783a2a80","BusinessService","Phone call","",""
+"id-e41f39845b994fbf8294ff91f897399c","Contract","Contract","",""
+"id-52df564d82cc4dd8b6098524ddc0286c","Contract","Drafting a contract","",""
+"id-2301978ba0eb4c569a042930bcbdc76b","Product","Website","",""
+"id-a39293aadd4a4a63bc80294095875e3f","Product","Website","",""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
